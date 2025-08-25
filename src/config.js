@@ -1,27 +1,18 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'rajvardhanranawat.dev@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/rajvardhan222',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+    
+    
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+      url: 'https://www.linkedin.com/in/rajvardhanranawat',
+    }
+    
   ],
 
   navLinks: [
@@ -29,10 +20,7 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
-    {
-      name: 'Experience',
-      url: '/#jobs',
-    },
+    
     {
       name: 'Work',
       url: '/#projects',

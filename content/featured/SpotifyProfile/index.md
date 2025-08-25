@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Be Shure | Find closest shop nearby'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/rajvardhan222/beshure'
+external: 'https://beshure.rajvardhan.me'
 tech:
   - React
-  - Styled Components
+  - Postgres
   - Express
-  - Spotify API
-  - Heroku
+  - TailwindCSS
+  - Azure
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+ A web application that helps user find the closest shop nearby using Location API .User can search for products and get a list of shops that have the product in stock closest to their location. On the otherhand shopkeepers can register their shops and add products to their inventory. The application also provides a dashboard for shopkeepers to manage their inventory .
