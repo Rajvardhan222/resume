@@ -67,7 +67,7 @@ const Hero = () => {
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building a google form like App named {' '}
-        <a href="https:formi.rajvardhan.me/u" target="_blank" rel="noreferrer">
+        <a href="https://formi.rajvardhan.me/u" target="_blank" rel="noreferrer">
           Formi
         </a>
         .
